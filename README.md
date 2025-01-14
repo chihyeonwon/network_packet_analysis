@@ -8,3 +8,6 @@
 snort 구문
 ~: "값" 
 content 
+![image](https://github.com/user-attachments/assets/0dc36e5e-3aea-42ec-b0d5-7d8ea950b9a5)
+
+## 와이어샤크 네트워크 패킷 분석
